@@ -1,2 +1,1 @@
-# Challenge--4---Build-a-Product-Landing-Page
- FCC - Responsive Web Design - Challenge #4
+Project created in order to complete the Challenge #4 of the freeCodeCamp Responsive Web Design certification.
